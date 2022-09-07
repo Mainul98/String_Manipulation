@@ -1,0 +1,11 @@
+{
+  "Designation": "Software Engineer",
+  "Department": "IT",
+  "address": {
+    "Area": "Gulshan-1",
+    "present_address": "Badda,Gulshan-1",
+    "PO": "Gulshan"
+  },
+  "name": "Kamal",
+  "phone_number": "01620141540"
+}

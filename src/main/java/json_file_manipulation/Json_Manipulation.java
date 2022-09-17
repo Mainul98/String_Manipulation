@@ -14,7 +14,7 @@ public class Json_Manipulation {
     public static void main(String[] args) throws IOException, ParseException, org.json.simple.parser.ParseException {
         //readJSONFile();
         //jsonWrite();
-        writeJSONList();
+        //writeJSONList();
         //readStudentArrayList();
         //updateJSONList("name","Kamal");
        // updateListStudent(0,"name","faruk");
